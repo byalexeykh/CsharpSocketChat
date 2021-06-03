@@ -1,5 +1,5 @@
-# CsharpSocketChat
-CsharpSocketChat
+# Csharp Socket Chat
+Csharp Socket Chat
 
 Aleksei Kharchenko
 
