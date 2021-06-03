@@ -8,4 +8,4 @@ How to start:
 2) star clients
 3) start chatting
 
-notice: everything works on local host (127.0.0.1)
+notice: everything works on local host (127.0.0.1) and ONLY with english characters
